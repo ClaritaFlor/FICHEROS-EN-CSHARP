@@ -1,0 +1,6 @@
+C:\Users\clarita\Documents\SharpDevelop Projects\Ficheros\Ficheros\bin\Debug\Ficheros.exe.config
+C:\Users\clarita\Documents\SharpDevelop Projects\Ficheros\Ficheros\bin\Debug\Ficheros.exe
+C:\Users\clarita\Documents\SharpDevelop Projects\Ficheros\Ficheros\bin\Debug\Ficheros.pdb
+C:\Users\clarita\Documents\SharpDevelop Projects\Ficheros\Ficheros\obj\Debug\Ficheros.csprojResolveAssemblyReference.cache
+C:\Users\clarita\Documents\SharpDevelop Projects\Ficheros\Ficheros\obj\Debug\Ficheros.exe
+C:\Users\clarita\Documents\SharpDevelop Projects\Ficheros\Ficheros\obj\Debug\Ficheros.pdb
